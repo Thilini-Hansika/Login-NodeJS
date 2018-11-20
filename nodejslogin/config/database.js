@@ -1,0 +1,9 @@
+module.exports={
+'connection':{
+    'host':'localhost',
+    'user':'root',
+    'password':'965780874'
+},
+'database':'nodejslogin',
+'user_table':'users'
+}
